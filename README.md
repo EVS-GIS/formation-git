@@ -1,2 +1,3 @@
-# formation-git
-Grande histoire collaborative passionante
+# Formation git
+
+Grande histoire collaborative passionante rédigée par des étudiants passionnants.

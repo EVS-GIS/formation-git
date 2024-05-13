@@ -4,6 +4,7 @@ format: html
 editor: visual
 ---
 
+
 Lisez l'histoire dans l'ordre suivant :
 
 1.  La carte au trésor
@@ -12,13 +13,20 @@ Lisez l'histoire dans l'ordre suivant :
 
 3.  Le buisson de framboises
 
-4.  L'ogre affamé
+Dans un jardin de doux plaisirs, la framboise est visible de loin. Rouge vive tel un rubis elle se cache derrière des feuilles. Seuls quelques rayons du soleil peuvent la toucher. Elle éveille mon cœur et dans ma bouche c'est une explosion de saveur comme dans le film ratatouille.
 
-5.  L'ours insomniaque
+# 3.  Rencontre de l'ogre
+LN se promenait dans la grande forêt des Grands-Framboisiers écarlates et rencontra un immense et terrifiant ogre...
 
-6.  Le coffre au trésor
+La grande forêt des Grands-Framboisiers écarlates était son magnifique paradis. L'ogre ressemblait à un pizzaiolo, avec un fond de gorge rose écarlate et tout frisé. Quand il avait sa bouche ouverte, on avait du mal à le discerner des Grands framboisiers. Ce qui lui permettait de manger des framboises sans être vu.
 
-Bonne lecture.
+Mais aujourd'hui il avait beaucoupissime faim !
+
+Il avait faim de saucisson brioché chaud et, justement, la belle LN sorait tout juste de son boucher du coeur oú elle venait d'acheter... du saucisson lyonnais bien chaud !
+
+"berk,berk,berk " pensa-t-il, "c'est sur qu'elle l'a pris aaux pistaches et non aux framboises.... et je suis alergique aux pistaches"! Mais heureusement, une belle framboise du nom de Barbi passait par là. Barbi qui avait le coeur framboise, réussi à remplacer les pistaches par des framboises. Tout heureux, l'orgre se concentra sur son assiette saucisson/framboise
+
+![](%22/images/baggit_magette_ogre.jpg%22)
 
 # 4. L'ours insomniaque
 
@@ -27,3 +35,7 @@ Je sors de ma poche un petit flacon de miel, que je donne à l'ours insomniaque.
 # 5. Récupérer la clef
 
 Cette action emplit l'ours de joie, qui, pour me faire part de sa reconnaissance, me donna la clef du coffre.
+
+6.  Le coffre au trésor
+
+Bonne lecture.
