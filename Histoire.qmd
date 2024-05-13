@@ -3,3 +3,19 @@ title: "Histoire"
 format: html
 editor: visual
 ---
+
+Lisez l'histoire dans l'ordre suivant :
+
+1.  La carte au trésor
+
+2.  L'arbre à tisane
+
+3.  Le buisson de framboises
+
+4.  L'ogre affamé
+
+5.  L'ours insomniaque
+
+6.  Le coffre au trésor
+
+Bonne lecture !
