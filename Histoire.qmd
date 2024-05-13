@@ -3,3 +3,5 @@ title: "Histoire"
 format: html
 editor: visual
 ---
+
+Je sors de ma poche un petit flacon de miel, que je donne à l'ours insomniaque. "Merci infiniment ! C'est exactement ce dont j'avais besoin pour arriver à boire ma tisane à la camomille, sans miel c'est vraiment infect..." Me dit l'ours souriant.
