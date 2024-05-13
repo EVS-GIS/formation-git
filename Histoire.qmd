@@ -4,4 +4,21 @@ format: html
 editor: visual
 ---
 
+Lisez l'histoire dans l'ordre suivant :
+
+1.  La carte au trésor
+
+2.  L'arbre à tisane
+
+3.  Le buisson de framboises
+
+4.  L'ogre affamé
+
+5.  L'ours insomniaque
+
+6.  Le coffre au trésor
+
+Bonne lecture.
+
+# 4. L'ours insomniaque
 Je sors de ma poche un petit flacon de miel, que je donne à l'ours insomniaque. "Merci infiniment ! C'est exactement ce dont j'avais besoin pour arriver à boire ma tisane à la camomille, sans miel c'est vraiment infect..." Me dit l'ours souriant.
