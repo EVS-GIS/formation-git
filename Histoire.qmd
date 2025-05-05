@@ -4,40 +4,40 @@ format: html
 editor: visual
 ---
 
-Lisez l'histoire dans l'ordre suivant :
+### Chapitre 1 : Le buisson de framboises
 
-1.  La carte au trésor
+Dans un jardin de doux plaisirs, la framboise est visible de loin. Rouge vive tel un rubis elle se cache derrière des feuilles. Seuls quelques rayons du soleil peuvent la toucher. Elle éveille mon cœur et dans ma bouche c'est une explosion de saveur comme dans le film ratatouille.
 
-2.  L'arbre à tisane
+### Chapitre 2 : Rencontre de l'ogre
 
-3.  Le buisson de framboises
-
-4.  L'ogre affamé
-
-5.  L'ours insomniaque
-
-6.  Le coffre au trésor
-
-Bonne lecture.
-
-## Rencontre de l'ogre
-
-LN se promenait dans la grande forêt des Grands-Framboisiers écarlates et rencontra un immense et terrifiant ogre...
+Je (LN) me promenais dans la grande forêt des Grands-Framboisiers écarlates et rencontrai un immense et terrifiant ogre...
 
 La grande forêt des Grands-Framboisiers écarlates était son magnifique paradis. L'ogre ressemblait à un pizzaiolo, avec un fond de gorge rose écarlate et tout frisé. Quand il avait sa bouche ouverte, on avait du mal à le discerner des Grands framboisiers. Ce qui lui permettait de manger des framboises sans être vu.
 
 Mais aujourd'hui il avait beaucoupissime faim !
 
-Il avait faim de saucisson brioché chaud et, justement, la belle LN sorait tout juste de son boucher du coeur oú elle venait d'acheter... du saucisson lyonnais bien chaud !
+Il avait faim de saucisson brioché chaud et, justement, je sortais tout juste de son boucher du coeur où je venais d'acheter... du saucisson lyonnais bien chaud !
 
-"berk,berk,berk" pensa-t-il, "c'est sur qu'elle l'a pris aaux pistaches et non aux framboises.... et je suis alergique aux pistaches"! Mais heureusement, une belle framboise du nom de Barbi passait par là. Barbi qui avait le coeur framboise, réussi à remplacer les pistaches par des framboises. Tout heureux, l'orgre se concentra sur son assiette saucisson/framboise
+"berk,berk,berk" pensa-t-il, "c'est sur qu'elle l'a pris aux pistaches et non aux framboises.... et je suis allergique aux pistaches"! Mais heureusement, une belle framboise du nom de Barbi passait par là. Barbi qui avait le coeur framboise, réussit à remplacer les pistaches par des framboises. Tout heureux, l'ogre se concentra sur son assiette saucisson/framboise
 
 ![](%22/images/baggit_magette_ogre.jpg%22)
 
-## L'ours insomniaque
+### Chapitre 3 : L'ours insomniaque
 
-Je sors de ma poche un petit flacon de miel, que je donne à l'ours insomniaque. "Merci infiniment ! C'est exactement ce dont j'avais besoin pour arriver à boire ma tisane à la camomille, sans miel c'est vraiment infect..." Me dit l'ours souriant.
+Je sortis de ma poche un petit flacon de miel, que je donnai à l'ours insomniaque. "Merci infiniment ! C'est exactement ce dont j'avais besoin pour arriver à boire ma tisane à la camomille, sans miel c'est vraiment infect..." Me dit l'ours souriant.
 
-![](images/ours_image.jpg)
+### Chapitre 4 : Récupérer la clef
+
+Cette action emplit l'ours de joie, qui, pour me faire part de sa reconnaissance, me donna la clef du coffre.
+
+### Chapitre 5 : Le coffre au trésor
+
+Dans le coffre nous croyons retrouver des objets assez surprenants. 
+Nous avons vu jaillir une lumière qui nous a aveuglé. 
+Malgré cet handicap visuel nous avons le coeur en fête. 
+On se frotta les yeux pour mieux voir mais aussi pour revenir à la réalité .
+ mais la réalité nous a percuté encore plus fort car la lumière n'était qu'un vieux phare qui s'allume dans l'obscurité. 
+une fois le coffre sortie de la grotte ce phare ne servi plus à rien .
+[](images/baggit_magette_coffre.jpg)
 
 ### Chapitre forêt maudite
