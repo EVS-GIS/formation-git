@@ -20,7 +20,7 @@ Il avait faim de saucisson brioché chaud et, justement, je sortais tout juste d
 
 "berk,berk,berk" pensa-t-il, "c'est sur qu'elle l'a pris aux pistaches et non aux framboises.... et je suis allergique aux pistaches"! Mais heureusement, une belle framboise du nom de Barbi passait par là. Barbi qui avait le coeur framboise, réussit à remplacer les pistaches par des framboises. Tout heureux, l'ogre se concentra sur son assiette saucisson/framboise
 
-![](%22/images/baggit_magette_ogre.jpg%22)
+![](./images/baggit_magette_ogre.jpg)
 
 ### Chapitre 3 : L'ours insomniaque
 
@@ -32,13 +32,9 @@ Cette action emplit l'ours de joie, qui, pour me faire part de sa reconnaissance
 
 ### Chapitre 5 : Le coffre au trésor
 
-Dans le coffre nous croyons retrouver des objets assez surprenants. 
-Nous avons vu jaillir une lumière qui nous a aveuglé. 
-Malgré cet handicap visuel nous avons le coeur en fête. 
-On se frotta les yeux pour mieux voir mais aussi pour revenir à la réalité .
- mais la réalité nous a percuté encore plus fort car la lumière n'était qu'un vieux phare qui s'allume dans l'obscurité. 
-une fois le coffre sortie de la grotte ce phare ne servi plus à rien .
-[](images/baggit_magette_coffre.jpg)
+Dans le coffre nous croyons retrouver des objets assez surprenants. Nous avons vu jaillir une lumière qui nous a aveuglé. Malgré cet handicap visuel nous avons le coeur en fête. On se frotta les yeux pour mieux voir mais aussi pour revenir à la réalité . mais la réalité nous a percuté encore plus fort car la lumière n'était qu'un vieux phare qui s'allume dans l'obscurité. une fois le coffre sortie de la grotte ce phare ne servi plus à rien .
+
+![](./images/baggit_magette_coffre.jpg)
 
 
 ### Chapitre 6.0 : Le salon du hobbit
