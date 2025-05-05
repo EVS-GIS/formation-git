@@ -8,6 +8,16 @@ editor: visual
 
 Dans un jardin de doux plaisirs, la framboise est visible de loin. Rouge vive tel un rubis elle se cache derrière des feuilles. Seuls quelques rayons du soleil peuvent la toucher. Elle éveille mon cœur et dans ma bouche c'est une explosion de saveur comme dans le film ratatouille.
 
+------------------------------------------------------------------------
+
+title: "Histoire"
+
+format: html
+
+editor: visual
+
+------------------------------------------------------------------------
+
 ### Chapitre 2 : Rencontre de l'ogre
 
 Je (LN) me promenais dans la grande forêt des Grands-Framboisiers écarlates et rencontrai un immense et terrifiant ogre...
@@ -32,10 +42,8 @@ Cette action emplit l'ours de joie, qui, pour me faire part de sa reconnaissance
 
 ### Chapitre 5 : Le coffre au trésor
 
-Dans le coffre nous croyons retrouver des objets assez surprenants. 
-Nous avons vu jaillir une lumière qui nous a aveuglé. 
-Malgré cet handicap visuel nous avons le coeur en fête. 
-On se frotta les yeux pour mieux voir mais aussi pour revenir à la réalité .
- mais la réalité nous a percuté encore plus fort car la lumière n'était qu'un vieux phare qui s'allume dans l'obscurité. 
-une fois le coffre sortie de la grotte ce phare ne servi plus à rien .
-[](images/baggit_magette_coffre.jpg)
+Dans le coffre nous croyons retrouver des objets assez surprenants. Nous avons vu jaillir une lumière qui nous a aveuglé. Malgré cet handicap visuel nous avons le coeur en fête. On se frotta les yeux pour mieux voir mais aussi pour revenir à la réalité . mais la réalité nous a percuté encore plus fort car la lumière n'était qu'un vieux phare qui s'allume dans l'obscurité. une fois le coffre sortie de la grotte ce phare ne servi plus à rien . [ ](images/baggit_magette_coffre.jpg)
+
+### Conclusion : Une lumière dans la framboise
+
+Ainsi s’achève notre aventure, née d’un buisson de framboises et guidée par un ogre affamé, un ours insomniaque et un coffre plein d’illusions lumineuses. Peut-être n’y avait-il pas de trésor, mais chaque rencontre fut un éclat sucré, une histoire en soi. Et dans le fond, n’est-ce pas la plus précieuse des trouvailles ?
