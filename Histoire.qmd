@@ -58,7 +58,7 @@ Autour de lui, les restes du festin jonchaient la table : des os rongés, des as
 
 L'ogre se mit à rire, un rire tonitruant qui résonna dans toute la caverne. Il se sentait invincible, comblé par ce repas copieux. Pour une fois, il n'avait plus cette sensation de vide qui le tourmentait constamment. Il pouvait enfin se reposer, sans être hanté par la faim.
 
-Il ferma les yeux, laissant ses pensées vagabonder. Il se remémora les aventures qui l'avaient mené à ce festin. Les défis qu'il avait surmontés, les ennemis qu'il avait vaincus. Tout cela en valait la peine, car il se sentait maintenant apaisé, prêt à affronter de nouvelles aventures.
+Il ferma les yeux, laissant ses pensées vagabonder, il rêve sandwich, il pense sandwich, il vie sandwich. Il se remémora les aventures qui l'avaient mené à ce festin. Les défis qu'il avait surmontés, les ennemis qu'il avait vaincus. Tout cela en valait la peine, car il se sentait maintenant apaisé, prêt à affronter de nouvelles aventures.
 
 Mais pour l'instant, il savourait ce moment de tranquillité. Il s'endormit paisiblement, bercé par le doux ronronnement de son estomac satisfait. La caverne, habituellement bruyante et agitée, était plongée dans un silence apaisant. L'ogre, ce géant terrifiant, était enfin en paix avec lui-même.
 
@@ -70,36 +70,6 @@ Et ainsi, dans cette caverne isolée, l'ogre passa une nuit sans rêves, sans ca
 
 Non loin de la caverne se situait un lac secret, où vivait une fée. La fée bleue. Fatiguée par les ronflements, elle alla voir l'orgre et lui jeta un sort ! Orgre il n'était plus.
 Elle l'avait transformer en grenouille, croassante.
-
-### Chapitre 15 : rêves secret
-
-Je ne savais pas que tu m’aimais
-En êtes-vous certain désormais ?
-Il aura suffi d’un anneau d’or
-Il aura fallu qu’on nous jette un sort
-Mais qu’allons-nous faire, de tant de bonheur
-Le montrer ou bien le taire ?
-Tous deux nous ferons de notre vie
-Ce que d’autres n’ont jamais su faire
-Nos amours resteront légendaires
-Et nous vivrons longtemps après la vie
-Mais qu’allons-nous faire, de tout cet amour
-Le montrer ou bien le taire ?
-Nous ferons ce qui est interdit
-Nous irons ensemble à la buvette
-Nous fumerons la pipe en cachette
-Nous nous gaverons de pâtisseries
-Mais qu’allons-nous faire, de tous ces plaisirs ?
-Il y en a tant sur Terre
-Nous ferons ce qui est interdit / Nous irons nous promener la nuit
-Nous irons ensemble à la buvette / Nous ferons tous deux des galipettes
-Nous fumerons la pipe en cachette / Nous irons ensemble à la buvette
-Nous nous gaverons de pâtisseries / Nous ferons tout ce qui est interdit
-Mais qu’allons-nous faire, de tous ces plaisirs ?
-Il y en a tant sur Terre
-Nous ferons bien sûr des tas d’enfants
-Nous vivrons ensemble
-Un conte de fées charmant
 
 ### Chapitre 10 : la Sorcière des Montagnes
 
@@ -124,7 +94,6 @@ Un sourire effleura les lèvres de la femme.
 Elena ne répondit pas. Le vent s’était levé, et il formait autour d’elles une spirale ténue de neige et de poussière qui ne gelait pourtant pas sa peau. L’air vibrait d’une magie ancienne, presque vivante.
 
 — Pourquoi me suivre ? demanda enfin Elena.
-
 
 Amaya haussa doucement les épaules.
 
@@ -162,12 +131,46 @@ La Sorcière des Montagnes esquissa un sourire — mince, indéchiffrable — pu
 
 Le véritable combat, pensa-t-elle, était sur le point de commencer.
 
+### Chapitre 15 : rêves secret
+
+Je ne savais pas que tu m’aimais
+En êtes-vous certain désormais ?
+Il aura suffi d’un anneau d’or
+Il aura fallu qu’on nous jette un sort
+Mais qu’allons-nous faire, de tant de bonheur
+Le montrer ou bien le taire ?
+Tous deux nous ferons de notre vie
+Ce que d’autres n’ont jamais su faire
+Nos amours resteront légendaires
+Et nous vivrons longtemps après la vie
+Mais qu’allons-nous faire, de tout cet amour
+Le montrer ou bien le taire ?
+Nous ferons ce qui est interdit
+Nous irons ensemble à la buvette
+Nous fumerons la pipe en cachette
+Nous nous gaverons de pâtisseries
+Mais qu’allons-nous faire, de tous ces plaisirs ?
+Il y en a tant sur Terre
+Nous ferons ce qui est interdit / Nous irons nous promener la nuit
+Nous irons ensemble à la buvette / Nous ferons tous deux des galipettes
+Nous fumerons la pipe en cachette / Nous irons ensemble à la buvette
+Nous nous gaverons de pâtisseries / Nous ferons tout ce qui est interdit
+Mais qu’allons-nous faire, de tous ces plaisirs ?
+Il y en a tant sur Terre
+Nous ferons bien sûr des tas d’enfants
+Nous vivrons ensemble
+Un conte de fées charmant
+
 ### Conclusion : Une lumière dans la framboise
 
 Ainsi s’achève notre aventure, née d’un buisson de framboises et guidée par un ogre affamé, un ours insomniaque et un coffre plein d’illusions lumineuses. Peut-être n’y avait-il pas de trésor, mais chaque rencontre fut un éclat sucré, une histoire en soi. Et dans le fond, n’est-ce pas la plus précieuse des trouvailles ?
 
 ![Les framboises du trésor](images/framboises.png)
 
+sandwich sandwich sandwich sandwich
+sandwich sandwich
+sandwich sandwich
+sandwich sandwich
+
 ### Remerciements 
 Je remercie Roland, Olivier, Jeanne, Laura, Inès, Paul, Fanny, Lisa, Angélique, Silya, Charlotte, Etan, Tom, Stépahnie, Kolia, Nicolas, Paul pour leur telle gentiellesse qui dépasse celle qu'on peut imaginer. Un seul mot qui brille comme une vieille pièce de monnaie : Merci. Je ne vous souahaite que le meilleur. 
->>>>>>> main
