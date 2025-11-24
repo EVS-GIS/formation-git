@@ -75,36 +75,6 @@ Et ainsi, dans cette caverne isolée, l'ogre passa une nuit sans rêves, sans ca
 Non loin de la caverne se situait un lac secret, où vivait une fée. La fée bleue. Fatiguée par les ronflements, elle alla voir l'orgre et lui jeta un sort ! Orgre il n'était plus.
 Elle l'avait transformer en grenouille, croassante.
 
-### Chapitre 15 : rêves secret
-
-Je ne savais pas que tu m’aimais
-En êtes-vous certain désormais ?
-Il aura suffi d’un anneau d’or
-Il aura fallu qu’on nous jette un sort
-Mais qu’allons-nous faire, de tant de bonheur
-Le montrer ou bien le taire ?
-Tous deux nous ferons de notre vie
-Ce que d’autres n’ont jamais su faire
-Nos amours resteront légendaires
-Et nous vivrons longtemps après la vie
-Mais qu’allons-nous faire, de tout cet amour
-Le montrer ou bien le taire ?
-Nous ferons ce qui est interdit
-Nous irons ensemble à la buvette
-Nous fumerons la pipe en cachette
-Nous nous gaverons de pâtisseries
-Mais qu’allons-nous faire, de tous ces plaisirs ?
-Il y en a tant sur Terre
-Nous ferons ce qui est interdit / Nous irons nous promener la nuit
-Nous irons ensemble à la buvette / Nous ferons tous deux des galipettes
-Nous fumerons la pipe en cachette / Nous irons ensemble à la buvette
-Nous nous gaverons de pâtisseries / Nous ferons tout ce qui est interdit
-Mais qu’allons-nous faire, de tous ces plaisirs ?
-Il y en a tant sur Terre
-Nous ferons bien sûr des tas d’enfants
-Nous vivrons ensemble
-Un conte de fées charmant
-
 ### Chapitre 10 : la Sorcière des Montagnes
 
 L’aube peinait à se frayer un chemin entre les crêtes acérées. Dans l’air flottait une odeur de pierre froide et de résine, et chaque souffle semblait réveiller l’écho profond des montagnes. Elena resserra sa cape sur ses épaules. Depuis deux jours, elle suivait les traces laissées par ce qu’elle croyait être un simple éclaireur ennemi. Mais à mesure qu’elle s’enfonçait dans la haute vallée, les marques au sol prenaient un aspect étrange — trop légères pour appartenir à un humain, trop ordonnées pour un animal.
@@ -129,8 +99,9 @@ Elena ne répondit pas. Le vent s’était levé, et il formait autour d’elles
 
 — Pourquoi me suivre ? demanda enfin Elena.
 
-Amaya haussa doucement les épaules.
 
+Amaya haussa doucement les épaules.
+7
 — Parce que tu portes quelque chose que tu ne comprends pas encore. Et parce qu’il y a longtemps, j’ai juré d’empêcher que ce pouvoir atteigne les mauvaises mains.
 
 Elle tendit la main. Sous sa manche usée apparut un bracelet de pierre volcanique, gravé de symboles tortueux. Elena recula d’un pas.
@@ -164,6 +135,36 @@ Elena inspira profondément.
 La Sorcière des Montagnes esquissa un sourire — mince, indéchiffrable — puis tourna les talons. Sans un mot, Elena lui emboîta le pas. À mesure qu’elles montaient, les nuages semblaient s’écarter, comme si le ciel lui-même retenait son souffle.
 
 Le véritable combat, pensa-t-elle, était sur le point de commencer.
+
+### Chapitre 15 : rêves secret
+
+Je ne savais pas que tu m’aimais
+En êtes-vous certain désormais ?
+Il aura suffi d’un anneau d’or
+Il aura fallu qu’on nous jette un sort
+Mais qu’allons-nous faire, de tant de bonheur
+Le montrer ou bien le taire ?
+Tous deux nous ferons de notre vie
+Ce que d’autres n’ont jamais su faire
+Nos amours resteront légendaires
+Et nous vivrons longtemps après la vie
+Mais qu’allons-nous faire, de tout cet amour
+Le montrer ou bien le taire ?
+Nous ferons ce qui est interdit
+Nous irons ensemble à la buvette
+Nous fumerons la pipe en cachette
+Nous nous gaverons de pâtisseries
+Mais qu’allons-nous faire, de tous ces plaisirs ?
+Il y en a tant sur Terre
+Nous ferons ce qui est interdit / Nous irons nous promener la nuit
+Nous irons ensemble à la buvette / Nous ferons tous deux des galipettes
+Nous fumerons la pipe en cachette / Nous irons ensemble à la buvette
+Nous nous gaverons de pâtisseries / Nous ferons tout ce qui est interdit
+Mais qu’allons-nous faire, de tous ces plaisirs ?
+Il y en a tant sur Terre
+Nous ferons bien sûr des tas d’enfants
+Nous vivrons ensemble
+Un conte de fées charmant
 
 ### Conclusion : Une lumière dans la framboise
 
