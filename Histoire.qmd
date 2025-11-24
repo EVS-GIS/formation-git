@@ -62,7 +62,7 @@ Autour de lui, les restes du festin jonchaient la table : des os rongés, des as
 
 L'ogre se mit à rire, un rire tonitruant qui résonna dans toute la caverne. Il se sentait invincible, comblé par ce repas copieux. Pour une fois, il n'avait plus cette sensation de vide qui le tourmentait constamment. Il pouvait enfin se reposer, sans être hanté par la faim.
 
-Il ferma les yeux, laissant ses pensées vagabonder. Il se remémora les aventures qui l'avaient mené à ce festin. Les défis qu'il avait surmontés, les ennemis qu'il avait vaincus. Tout cela en valait la peine, car il se sentait maintenant apaisé, prêt à affronter de nouvelles aventures.
+Il ferma les yeux, laissant ses pensées vagabonder, il rêve sandwich, il pense sandwich, il vie sandwich. Il se remémora les aventures qui l'avaient mené à ce festin. Les défis qu'il avait surmontés, les ennemis qu'il avait vaincus. Tout cela en valait la peine, car il se sentait maintenant apaisé, prêt à affronter de nouvelles aventures.
 
 Mais pour l'instant, il savourait ce moment de tranquillité. Il s'endormit paisiblement, bercé par le doux ronronnement de son estomac satisfait. La caverne, habituellement bruyante et agitée, était plongée dans un silence apaisant. L'ogre, ce géant terrifiant, était enfin en paix avec lui-même.
 
@@ -80,3 +80,5 @@ Elle l'avait transformer en grenouille, croassante.
 Ainsi s’achève notre aventure, née d’un buisson de framboises et guidée par un ogre affamé, un ours insomniaque et un coffre plein d’illusions lumineuses. Peut-être n’y avait-il pas de trésor, mais chaque rencontre fut un éclat sucré, une histoire en soi. Et dans le fond, n’est-ce pas la plus précieuse des trouvailles ?
 
 ![Les framboises du trésor](images/framboises.png)
+
+
