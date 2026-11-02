@@ -4,9 +4,19 @@ format: html
 editor: visual
 ---
 
-### Chapitre 1 : Le buisson de framboises
+### Chapitre 31 Toulouse : Le buisson de framboises
 
-Dans un jardin de doux plaisirs, la framboise est visible de loin. Rouge vive tel un rubis elle se cache derrière des feuilles. Seuls quelques rayons du soleil peuvent la toucher. Elle éveille mon cœur et dans ma bouche c'est une explosion de saveur comme dans le film ratatouille.
+Dans un jardin de doux plaisirs, la framboise est visible de loin. Rouge vive tel un saphir elle se cache derrière des feuilles. Seuls quelques rayons du soleil peuvent la toucher. Elle éveille mon cœur et dans ma bouche c'est une explosion de saveur comme dans le film ratatouille.
+
+------------------------------------------------------------------------
+
+title: "Histoire"
+
+format: html
+
+editor: visual
+
+------------------------------------------------------------------------
 
 ### Chapitre 2 : Rencontre de l'ogre
 
@@ -34,6 +44,8 @@ Cette action emplit l'ours de joie, qui, pour me faire part de sa reconnaissance
 
 Dans le coffre nous croyons retrouver des objets assez surprenants. Nous avons vu jaillir une lumière qui nous a aveuglé. Malgré cet handicap visuel nous avons le coeur en fête. On se frotta les yeux pour mieux voir mais aussi pour revenir à la réalité . mais la réalité nous a percuté encore plus fort car la lumière n'était qu'un vieux phare qui s'allume dans l'obscurité. une fois le coffre sortie de la grotte ce phare ne servi plus à rien . [ ](images/baggit_magette_coffre.jpg)
 
+Dans le coffre nous croyons retrouver des objets assez surprenants. Nous avons vu jaillir une lumière qui nous a aveuglé. Malgré cet handicap visuel nous avons le coeur en fête. On se frotta les yeux pour mieux voir mais aussi pour revenir à la réalité . mais la réalité nous a percuté encore plus fort car la lumière n'était qu'un vieux phare qui s'allume dans l'obscurité. une fois le coffre sortie de la grotte ce phare ne servi plus à rien .
+
 ![](./images/baggit_magette_coffre.jpg)
 
 ### Chapitre 6.0 : Le salon du hobbit
@@ -42,13 +54,15 @@ L'ogre continuant son chemin, passa sans le savoir au-dessus d'une maison de hob
 
 L'ogre s'empara de la marmite et englouti le repas du hobbit. Avant de repartir sur les chemins, laissant le hobbit dépourvu de salon ... et de diner !
 
+### Chapitre 7 : L'ogre n'a plus faim, il a soif
+
 Après ce bon repas, l'ogre n'avait plus faim du tout. Il se laissa tomber lourdement sur son immense fauteuil en bois, qui craqua sous son poids. Ses yeux, habituellement brillants de malice et de faim insatiable, étaient maintenant mi-clos, reflétant une satisfaction profonde. Il poussa un long soupir de contentement, faisant trembler les murs de sa caverne sombre et humide.
 
 Autour de lui, les restes du festin jonchaient la table : des os rongés, des assiettes vides et des verres renversés témoignaient de l'appétit vorace de l'ogre. Il avait dévoré tout ce qui lui était tombé sous la main, sans laisser la moindre miette. Son ventre, désormais plein à craquer, semblait sur le point d'éclater.
 
 L'ogre se mit à rire, un rire tonitruant qui résonna dans toute la caverne. Il se sentait invincible, comblé par ce repas copieux. Pour une fois, il n'avait plus cette sensation de vide qui le tourmentait constamment. Il pouvait enfin se reposer, sans être hanté par la faim.
 
-Il ferma les yeux, laissant ses pensées vagabonder, il rêve sandwich, il pense sandwich, il vie sandwich. Il se remémora les aventures qui l'avaient mené à ce festin. Les défis qu'il avait surmontés, les ennemis qu'il avait vaincus. Tout cela en valait la peine, car il se sentait maintenant apaisé, prêt à affronter de nouvelles aventures.
+Il ferma les grands yeux bleu, laissant ses pensées vagabonder, il rêve sandwich, il pense sandwich, il vie sandwich. Il se remémora les aventures qui l'avaient mené à ce festin. Les défis qu'il avait surmontés, les ennemis qu'il avait vaincus. Tout cela en valait la peine, car il se sentait maintenant apaisé, prêt à affronter de nouvelles aventures.
 
 Mais pour l'instant, il savourait ce moment de tranquillité. Il s'endormit paisiblement, bercé par le doux ronronnement de son estomac satisfait. La caverne, habituellement bruyante et agitée, était plongée dans un silence apaisant. L'ogre, ce géant terrifiant, était enfin en paix avec lui-même.
 
@@ -58,109 +72,87 @@ Et ainsi, dans cette caverne isolée, l'ogre passa une nuit sans rêves, sans ca
 
 ### Chapitre 9 : la Fée du lac
 
+### Chapitre 10 : la Vraie Sorcière des Montagnes
+
+
 Non loin de la caverne se situait un lac secret, où vivait une fée. La fée bleue. Fatiguée par les ronflements, elle alla voir l'orgre et lui jeta un sort ! Orgre il n'était plus.
-Elle l'avait transformer en grenouille, croassante.
+Elle l'avait transformer en grenouille, croassante. Un chat, paresseusement endormi aux abords du lac, un brun de soleil venant éclairé son pelage brillant, il perçu la magie invoquée par la fée. Il s'approcha et pris conscience de la métamorphose de l'ogre. 
 
-### Chapitre 10 : la Sorcière des Montagnes
 
-L’aube peinait à se frayer un chemin entre les crêtes acérées. Dans l’air flottait une odeur de pierre froide et de résine, et chaque souffle semblait réveiller l’écho profond des montagnes. Elena resserra sa cape sur ses épaules. Depuis deux jours, elle suivait les traces laissées par ce qu’elle croyait être un simple éclaireur ennemi. Mais à mesure qu’elle s’enfonçait dans la haute vallée, les marques au sol prenaient un aspect étrange — trop légères pour appartenir à un humain, trop ordonnées pour un animal.
+### Chapitre 19 : euh pourquoi il manque tant de chapitre ??
 
-À présent, elle savait : quelqu’un la guidait. Ou la menait dans un piège.
+Alors chers lecteurs, il est temps de vous faire un résumé de cette belle histoire que vous avez évidemment lu avec grande attention !
+C'est une histoire de à dormir debout qui mélange féérie, coffre, orgre et framboises !
 
-La neige crissa derrière elle. Elena dégaina sans réfléchir.
+Bon enfaite, cela n'a pas de sens c'est sans queue ni tête ! L'histoire commence avec la descripttion d'un buisson de framboises puis ça dégénéré en rencontres avec un ogre affamé puis un ours insomniaque ????
+Mais où va le monde ???
 
-— Inutile, dit une voix rauque mais calme. Si je t’avais voulu du mal, tu serais déjà tombée dans un ravin.
+Les chaussures de l'ogre ont disparu tel un tour de magie et ensuite on passe sur un fée du lac (comme dans la légnde du roi Arthur ???).
 
-La silhouette sortit d’un pli d’ombre. C’était une femme — ou quelque chose qui lui ressemblait. Ses cheveux noirs tombaient en mèches épaisses jusqu’à sa taille, striés ici et là de reflets argentés comme des filons d’un minerai rare. Ses yeux, d’un vert minéral, semblaient refléter non la lumière, mais l’histoire des montagnes elles-mêmes.
 
-Elena sentit son cœur marteler dans sa poitrine.
+### Chapitre 16 : L'avènement du sultan Gengis
 
-— Vous êtes… la Sorcière des Montagnes.
+Gengis grandit dans une province des plus banales de la Turquie. Il savait lire l'alphabet à l'envers dès ses 45 ans. Au vu de sa capacité d'analyse reconnue par ses tiers il fut rapidement demandé au pouvoir, au nom de tout un peuple. 
 
-Un sourire effleura les lèvres de la femme.
+Une prise de pouvoir difficile
 
-— C’est ainsi qu’on me nomme. Amaya fera l’affaire, si tu préfères.
+Sa nouvelle fonction lui a permis l'accès aux encyclopédies nationales dont à présent seul lui à l'accès. Ce monopole sur le savoir national laisse entrevoir en lui une opportunité de manipulation. Il alla même jusqu'à inventer une langue sortie de nulle part dont lui seul connaît les rouages. Il la rend obligatoire dès le CP en lv2. Cette quête populaire de comprendre la fameuse langue du sultan ne fait pas l'unanimité. Très vite une révolution se mis en place, sa tête est mise à prix à l'octobre 67. 
 
-Elena ne répondit pas. Le vent s’était levé, et il formait autour d’elles une spirale ténue de neige et de poussière qui ne gelait pourtant pas sa peau. L’air vibrait d’une magie ancienne, presque vivante.
+Une fin radicale
 
-— Pourquoi me suivre ? demanda enfin Elena.
-
-Amaya haussa doucement les épaules.
-
-— Parce que tu portes quelque chose que tu ne comprends pas encore. Et parce qu’il y a longtemps, j’ai juré d’empêcher que ce pouvoir atteigne les mauvaises mains.
-
-Elle tendit la main. Sous sa manche usée apparut un bracelet de pierre volcanique, gravé de symboles tortueux. Elena recula d’un pas.
-
-— Je ne vous ai rien demandé.
-
-— Et pourtant, dit Amaya en inclinant la tête, te voilà dans ma montagne.
-
-Le sol trembla soudain. Des blocs de roche se détachèrent, roulant dans un tumulte sourd. Amaya leva à peine un doigt : la terre se calma aussitôt, comme une bête qui obéirait à son maître.
-
-— Ce n’est pas moi que tu dois craindre, reprit-elle. Ils arrivent.
-
-Son regard se fixa vers le nord, au-delà des falaises où les nuages traînaient comme de lourds rideaux. Elena sentit une présence — lointaine mais menaçante, comme une pulsation sombre qui battait sous le monde.
-
-— Qui ? murmura-t-elle.
-
-— Ceux qui ont réveillé la montagne. Ceux qui traquent la pierre que tu portes autour du cou.
-
-Elena porta la main à l’amulette dissimulée sous ses vêtements. Un frisson la parcourut. Elle ne se souvenait pas l’avoir sentie aussi chaude.
-
-Amaya s’approcha, ses pas ne laissant aucune trace dans la neige.
-
-— Si tu veux survivre, si tu veux comprendre, suis-moi. Le sentier sera rude, mais les réponses sont là-haut, au cœur du pic silencieux.
-
-Un grondement monta des profondeurs de la montagne, plus fort cette fois, presque un avertissement.
-
-Elena inspira profondément.
-
-— Très bien. Montrez-moi le chemin.
-
-La Sorcière des Montagnes esquissa un sourire — mince, indéchiffrable — puis tourna les talons. Sans un mot, Elena lui emboîta le pas. À mesure qu’elles montaient, les nuages semblaient s’écarter, comme si le ciel lui-même retenait son souffle.
-
-Le véritable combat, pensa-t-elle, était sur le point de commencer.
-
-### Chapitre 15 : rêves secret
-
-Je ne savais pas que tu m’aimais
-En êtes-vous certain désormais ?
-Il aura suffi d’un anneau d’or
-Il aura fallu qu’on nous jette un sort
-Mais qu’allons-nous faire, de tant de bonheur
-Le montrer ou bien le taire ?
-Tous deux nous ferons de notre vie
-Ce que d’autres n’ont jamais su faire
-Nos amours resteront légendaires
-Et nous vivrons longtemps après la vie
-Mais qu’allons-nous faire, de tout cet amour
-Le montrer ou bien le taire ?
-Nous ferons ce qui est interdit
-Nous irons ensemble à la buvette
-Nous fumerons la pipe en cachette
-Nous nous gaverons de pâtisseries
-Mais qu’allons-nous faire, de tous ces plaisirs ?
-Il y en a tant sur Terre
-Nous ferons ce qui est interdit / Nous irons nous promener la nuit
-Nous irons ensemble à la buvette / Nous ferons tous deux des galipettes
-Nous fumerons la pipe en cachette / Nous irons ensemble à la buvette
-Nous nous gaverons de pâtisseries / Nous ferons tout ce qui est interdit
-Mais qu’allons-nous faire, de tous ces plaisirs ?
-Il y en a tant sur Terre
-Nous ferons bien sûr des tas d’enfants
-Nous vivrons ensemble
-Un conte de fées charmant
+Avec leurs couteaux et leur machettes, les révolutionnaires franchirent la garde royale sans crainte. Gengis fut prit d'assaut et joua la carte de la folie pour s'en tirer " Moi s'il épargnez plaît vous ". POV personne ne compris et il fut lynché puis écartelé en place publique. Ils lui ont même déchiré son durag. 
 
 ### Conclusion : Une lumière dans la framboise
 
 Ainsi s’achève notre aventure, née d’un buisson de framboises et guidée par un ogre affamé, un ours insomniaque et un coffre plein d’illusions lumineuses. Peut-être n’y avait-il pas de trésor, mais chaque rencontre fut un éclat sucré, une histoire en soi. Et dans le fond, n’est-ce pas la plus précieuse des trouvailles ?
-
+Moral de l'histoire : Ce n'est pas parce qu'un clé n'ouvre aucune porte qu'elle ne sert à rien.
 ![Les framboises du trésor](images/framboises.png)
 
-sandwich sandwich sandwich sandwich
+Fléchettes Fléchettes
+Meuf arrêtes de toucher à ma ***
+
+Oh Damien, roi des toulousains
+Mon seul rêve, être un des tiens
+S'il te plait prend moi la main
+Et fais moi un calin
+
+Oh Damien, que tu es beau
+à la fois carismatique et rigolo, 
+Ton accent si mignon 
+Me fait sortir de mes gonds
+
+Oh damien, marie moi je ten supplie
+Etre ta femme est mon devoir
+Tous les jours je veux te voir
+Jusqu'à la mort et au paradis
+
 sandwich sandwich
 sandwich sandwich
 sandwich sandwich
+sandwich sandwich
+
+A noter que l'absence des chapitres 7 ainsi que 11 à 14 est un choix purement artistique et délibéré
+
+### Epilogue
+Un an après, Framboisette invite ses amis à déguster un délicieux sandwich.
+Miam ! Bonne appétit!
+FAAAAIIIM
+
+### Remerciements 
+Je remercie Roland, Olivier, Jeanne, Laura, Inès, Paul, Fanny, Lisa, Angélique, Silya, Charlotte, Etan, Tom, Stépahnie, Kolia, Nicolas, Paul pour leur telle gentiellesse qui dépasse celle qu'on peut imaginer. Un seul mot qui brille comme une vieille pièce de monnaie : Merci. Je ne vous souahaite que le meilleur. 
+Je remercie personne, fallait être là. 
+Le seul honneur qu'on doit, on le doit à Monsieur Cuhadar, le chef de tous.
+
+### Post-face
+Que pensent les Mouflons de l'ENS des ogres et des framboises?
+
+Salut, je suis assiette : je mange fourchette
+
+
+
+Capitulo 1:
+
+Este es un libro corto.
 
 ### Remerciements 
 Je remercie Roland, Olivier, Jeanne, Laura, Inès, Paul, Fanny, Lisa, Angélique, Silya, Charlotte, Etan, Tom, Stépahnie, Kolia, Nicolas, Paul pour leur telle gentiellesse qui dépasse celle qu'on peut imaginer. Un seul mot qui brille comme une vieille pièce de monnaie : Merci. Je ne vous souahaite que le meilleur. 
@@ -173,3 +165,4 @@ Une arrivée tumultueuse,
 Dans une ville très pluvieuse,
 Entouré de riches personnes,
 Goutte perdue, je reste aphone.
+Fin.
