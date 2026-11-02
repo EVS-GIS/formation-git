@@ -1,5 +1,5 @@
 # Formation git
 
-Grande histoire collaborative passionante rédigée par des étudiants passionnants.
+Grande histoire collaborative passionnante rédigée par des étudiants passionnants.
 
 Blabla
