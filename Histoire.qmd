@@ -92,10 +92,12 @@ Ainsi s’achève notre aventure, née d’un buisson de framboises et guidée p
 Moral de l'histoire : Ce n'est pas parce qu'un clé n'ouvre aucune porte qu'elle ne sert à rien.
 ![Les framboises du trésor](images/framboises.png)
 
-sandwich sandwich sandwich sandwich
 sandwich sandwich
 sandwich sandwich
 sandwich sandwich
+sandwich sandwich
+
+A noter que l'absence des chapitres 7 ainsi que 11 à 14 est un choix purement artistique et délibéré
 
 ### Epilogue
 Un an après, Framboisette invite ses amis à déguster un délicieux sandwich.
