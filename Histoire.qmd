@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-### Chapitre 1 : Le buisson de framboises
+### Chapitre 1 : Le buisson de framboises JUles
 
 Dans un jardin de doux plaisirs, la framboise est visible de loin. Rouge vive tel un rubis elle se cache derrière des feuilles. Seuls quelques rayons du soleil peuvent la toucher. Elle éveille mon cœur et dans ma bouche c'est une explosion de saveur comme dans le film ratatouille.
 
@@ -48,7 +48,7 @@ Autour de lui, les restes du festin jonchaient la table : des os rongés, des as
 
 L'ogre se mit à rire, un rire tonitruant qui résonna dans toute la caverne. Il se sentait invincible, comblé par ce repas copieux. Pour une fois, il n'avait plus cette sensation de vide qui le tourmentait constamment. Il pouvait enfin se reposer, sans être hanté par la faim.
 
-Il ferma les yeux, laissant ses pensées vagabonder, il rêve sandwich, il pense sandwich, il vie sandwich. Il se remémora les aventures qui l'avaient mené à ce festin. Les défis qu'il avait surmontés, les ennemis qu'il avait vaincus. Tout cela en valait la peine, car il se sentait maintenant apaisé, prêt à affronter de nouvelles aventures.
+Il ferma les grands yeux bleu, laissant ses pensées vagabonder, il rêve sandwich, il pense sandwich, il vie sandwich. Il se remémora les aventures qui l'avaient mené à ce festin. Les défis qu'il avait surmontés, les ennemis qu'il avait vaincus. Tout cela en valait la peine, car il se sentait maintenant apaisé, prêt à affronter de nouvelles aventures.
 
 Mais pour l'instant, il savourait ce moment de tranquillité. Il s'endormit paisiblement, bercé par le doux ronronnement de son estomac satisfait. La caverne, habituellement bruyante et agitée, était plongée dans un silence apaisant. L'ogre, ce géant terrifiant, était enfin en paix avec lui-même.
 
@@ -151,6 +151,14 @@ Nous ferons bien sûr des tas d’enfants
 Nous vivrons ensemble
 Un conte de fées charmant
 
+### Chapitre 16 : le surgissement de la 2cv
+Quand tout à coup arrive rugissant une 2cv dans le vent
+Son bicylindre de 600 centimètres cubes fatigué par le bitume
+En surchauffe dans la côte
+Brûlant le précieux liquide qui coûtera bientôt 3 euros le litre 
+Et roulant vaillamment vers l'apocalypse
+Où bientôt tout sera électrique
+
 ### Conclusion : Une lumière dans la framboise
 
 Ainsi s’achève notre aventure, née d’un buisson de framboises et guidée par un ogre affamé, un ours insomniaque et un coffre plein d’illusions lumineuses. Peut-être n’y avait-il pas de trésor, mais chaque rencontre fut un éclat sucré, une histoire en soi. Et dans le fond, n’est-ce pas la plus précieuse des trouvailles ?
@@ -180,3 +188,6 @@ Jusqu'à la mort et au paradis
 Je remercie Roland, Olivier, Jeanne, Laura, Inès, Paul, Fanny, Lisa, Angélique, Silya, Charlotte, Etan, Tom, Stépahnie, Kolia, Nicolas, Paul pour leur telle gentiellesse qui dépasse celle qu'on peut imaginer. Un seul mot qui brille comme une vieille pièce de monnaie : Merci. Je ne vous souahaite que le meilleur. 
 Je remercie personne, fallait être là. 
 Le seul honneur qu'on doit, on le doit à Monsieur Cuhadar, le chef de tous.
+
+### Post-face
+Que pensent les Mouflons de l'ENS des ogres et des framboises?
