@@ -176,7 +176,7 @@ sandwich sandwich
 sandwich sandwich
 sandwich sandwich
 ###Dessert
-Papaye, mangue, orange
+Papaye, mangue, orange, banane, goyave
 
 ### Remerciements 
 Nous remercions Tom pour son travail journalistique remarquable.
