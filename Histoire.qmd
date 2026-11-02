@@ -18,7 +18,7 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-### Chapitre 3000 : Rencontre de l'ogre
+### Chapitre 2 : Rencontre de l'ogre
 
 Je (LN) me promenais dans la grande forêt des Grands-Framboisiers écarlates et rencontrai un immense et terrifiant ogre...
 
