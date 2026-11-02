@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-### Chapitre 1 : Le buisson de framboises
+### Chapitre 1 : Le buisson de framboises JUles
 
 Dans un jardin de doux plaisirs, la framboise est visible de loin. Rouge vive tel un rubis elle se cache derrière des feuilles. Seuls quelques rayons du soleil peuvent la toucher. Elle éveille mon cœur et dans ma bouche c'est une explosion de saveur comme dans le film ratatouille.
 
@@ -150,6 +150,14 @@ Il y en a tant sur Terre
 Nous ferons bien sûr des tas d’enfants
 Nous vivrons ensemble
 Un conte de fées charmant
+
+### Chapitre 16 : le surgissement de la 2cv
+Quand tout à coup arrive rugissant une 2cv dans le vent
+Son bicylindre de 600 centimètres cubes fatigué par le bitume
+En surchauffe dans la côte
+Brûlant le précieux liquide qui coûtera bientôt 3 euros le litre 
+Et roulant vaillamment vers l'apocalypse
+Où bientôt tout sera électrique
 
 ### Conclusion : Une lumière dans la framboise
 
